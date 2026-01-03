@@ -28,4 +28,3 @@ console.log(aprovados[1])
 aprovados = ['Bia', 'Jerferson', 'Ana']
 aprovados.splice(1, 1,) 
 console.log(aprovados)
-//jkasdljklfasdasjklaslpica
