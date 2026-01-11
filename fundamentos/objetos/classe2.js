@@ -6,7 +6,7 @@ class Avo {
 
 class Pai extends Avo{
     constructor(sobrenome, profissao = 'Professor'){
-        super(Sobrenome)
+        super(sobrenome)
         this. profissao = profissao
     }
 }
